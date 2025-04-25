@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ガガンのカレー屋さん | Gagan's Curry Shop</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>ガガンのカレー屋さん (Gagan's Curry Shop) - Welcome!</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home / ホーム</a></li>
+                <li><a href="menu.html">Menu / メニュー</a></li>
+                <li><a href="gallery.html">Gallery / ギャラリー</a></li>
+                <li><a href="reservation.html">Reservation / 予約</a></li>
+                <li><a href="contact.html">Contact / お問い合わせ</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section>
+        <h2>About Us / 私たちについて</h2>
+        <p>Gagan's Curry House offers authentic Nepalese cuisine, including curry, momo, and tandoori dishes. We also have vegetarian and halal-friendly options. Come and enjoy the warm taste of Nepal! / ガガンのカレー屋さんでは、カレー、モモ、タンドリ料理など、ネパールの本格的な料理を提供しています。ベジタリアンやハラール対応メニューもございます。ネパールの温かい味をお楽しみください！</p>
+        <img src="restaurant.jpg" alt="Restaurant Photo / レストランの写真" width="100%">
+    </section>
+
+    <section>
+        <h2>Our Menu / メニュー</h2>
+        <p>Try our delicious Nepalese curries, momo, tandoori, and more! / 美味しいネパールカレー、モモ、タンドリーなどをお試しください！</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Gagan's Curry Shop / ガガンのカレー屋さん</p>
+        <p>Business Hours: 11:00 AM - 10:30 PM / 営業時間: 11:00 - 22:30</p>
+        <p>Contact: 03-6426-7707 | Email: gagancurrytogoshi@gmail.com / お問い合わせ: 03-6426-7707 | メール: gagancurrytogoshi@gmail.com</p>
+    </footer>
+</body>
+</html>
