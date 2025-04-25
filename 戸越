@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gagan's Curry House</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #fffaf3;
+      color: #333;
+    }
+    header {
+      background-color: #c0392b;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h2 {
+      color: #c0392b;
+    }
+    a {
+      color: #2980b9;
+      text-decoration: none;
+    }
+    .gallery img {
+      width: 100%;
+      max-width: 300px;
+      margin: 10px;
+      border-radius: 10px;
+    }
+    .contact, .location, .hours, .booking, .payment {
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Gagan’s Curry House</h1>
+    <p>Authentic Nepalese Cuisine in Shinagawa, Tokyo</p>
+  </header>
+
+  <section>
+    <h2>About Us</h2>
+    <p>Gagan’s Curry House is a specialty restaurant located in Shinagawa, Tokyo, offering authentic Nepalese cuisine and curry. From richly spiced traditional Nepalese curries to tandoori chicken and momo (Nepalese dumplings), we serve a wide variety of flavorful dishes. We also offer Halal-friendly and vegetarian options, so everyone can enjoy our meals with peace of mind. Come and experience the warm taste of Nepal in a cozy, welcoming atmosphere.</p>
+  </section>
+
+  <section>
+    <h2>Menu</h2>
+    <p>View our menu on Uber Eats: <a href="https://www.ubereats.com/store/%E3%82%AB%E3%82%AC%E3%83%B3%E3%81%AE%E3%82%AB%E3%83%AC%E3%83%BC%E5%B1%8B%E3%81%95%E3%82%93%E6%88%B8%E8%B6%8A%E6%94%AF%E5%BA%97/CrmjhNgxXo2oAyyxJ6PoFQ" target="_blank">Uber Eats - Gagan’s Curry House</a></p>
+  </section>
+
+  <section class="gallery">
+    <h2>Gallery</h2>
+    <img src="https://maps.app.goo.gl/2qvRwkFhMhZYhFx66" alt="Photo 1">
+    <img src="https://maps.app.goo.gl/XR6vJR7fki7Uu6QK7" alt="Photo 2">
+  </section>
+
+  <section class="location">
+    <h2>Location</h2>
+    <p><a href="https://maps.app.goo.gl/QzsSUyWx8cqK5Uko9" target="_blank">View on Google Maps</a></p>
+    <p>1 min walk from Togoshi Station / 3 min walk from Togoshi Ginza Station / 181m from Togoshi Station</p>
+  </section>
+
+  <section class="hours">
+    <h2>Business Hours</h2>
+    <p>Open daily: 11:00 - 22:30</p>
+  </section>
+
+  <section class="contact">
+    <h2>Contact</h2>
+    <p>Phone: 03-6426-7707 / 080-4136-6529</p>
+    <p>Email: <a href="mailto:gagancurrytogoshi@gmail.com">gagancurrytogoshi@gmail.com</a></p>
+    <p>Facebook: <a href="https://m.me/113552028518979" target="_blank">Message Us</a></p>
+    <p>Instagram: <a href="https://www.instagram.com/gagancurrytogoshi/" target="_blank">Follow Us</a></p>
+  </section>
+
+  <section class="booking">
+    <h2>Online Booking</h2>
+    <p><a href="https://tabelog.com/tokyo/A1317/A131712/13291891/" target="_blank">Tabelog</a></p>
+    <p><a href="https://www.hotpepper.jp/strJ004003000/yoyaku/" target="_blank">HotPepper</a></p>
+  </section>
+
+  <section class="payment">
+    <h2>Payment Methods</h2>
+    <ul>
+      <li>Credit Cards: MasterCard, JCB, AMEX, Diners</li>
+      <li>Electronic Money: Suica, Edy, nanaco, WAON, iD, QUICPay</li>
+      <li>QR Code Payment: PayPay, d払い, 楽天ペイ, au PAY</li>
+    </ul>
+  </section>
+
+  <section class="info">
+    <h2>Restaurant Info</h2>
+    <p>Seats: 32</p>
+    <p>Comfortable space, Wide seats, Power supply available, Free Wi-Fi</p>
+    <p>Menu: Course, All-you-can-drink, All-you-can-eat, Vegetarian options, Health-conscious menu</p>
+    <p>Drinks: Sake, Shochu, Wine, Cocktails</p>
+  </section>
+</body>
+</html>
